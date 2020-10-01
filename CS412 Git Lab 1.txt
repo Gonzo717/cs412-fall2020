@@ -1,0 +1,75 @@
+Gonzalo Rosales
+U41338849
+CS412 Git Lab
+
+Part 1:
+
+$ delay 2000
+$ show goal
+$ git commit
+$ git commit
+
+
+$ delay 2000
+$ show goal
+$ git checkout -b bugfix
+
+
+$ delay 2000
+$ show goal
+$ git checkout -b bugFix
+$ git commit
+$ git checkout master
+$ git commit
+$ git merge bugFix
+
+
+$ delay 2000
+$ show goal
+$ git checkout -b bugFix
+$ git commit
+$ git checkout master
+$ git commit
+$ objective
+$ git checkout bugFix
+$ git rebase master
+
+
+Part 2:
+
+$ delay 2000
+$ show goal
+$ git checkout C4
+
+$ delay 2000
+$ show goal
+$ git checkout bugFix
+$ git checkout HEAD^
+
+$ delay 2000
+$ show goal
+$ git checkout C5
+$ git checkout C6
+$ git branch -f master HEAD
+$ git checkout C0
+$ git branch -f bugFix HEAD
+$ git checkout C1
+
+$ delay 2000
+$ show goal
+$ git checkout pushed
+$ git revert C2
+$ git checkout local
+$ git reset C1
+
+Part 3:
+
+$ delay 2000
+$ show goal
+$ git cherry-pick C3
+$ git cherry-pick C4
+$ git cherry-pick C7
+
+$ delay 2000
+$ show goal
+$ git rebase -i overHere
