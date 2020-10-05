@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8593685-70a6-40ec-a839-603a9af20006" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CS412.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PS1/PS1.P1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PS1/PS1.P2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PS1/PS1.P3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PS1/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iHdFHfOfRkmGQKINFYbbavK8dR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PS1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Mocha.PS1\test.js">
+    <configuration name="PS1.P1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PS1/PS1.P1.js" working-dir="$PROJECT_DIR$/PS1">
+      <method v="2" />
+    </configuration>
+    <configuration name="PS1.P2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PS1/PS1.P2.js" working-dir="$PROJECT_DIR$/PS1">
+      <method v="2" />
+    </configuration>
+    <configuration name="PS1.P3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PS1/PS1.P3.js" working-dir="$PROJECT_DIR$/PS1">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/PS1">
+      <method v="2" />
+    </configuration>
+    <configuration name="PS1\test.js" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/PS1/test.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test for p1" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/PS1/test.js</test-file>
+      <test-names>
+        <name value="Test for p1" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test for p1.should make [super1234califragilisticexpialidocious] aplhabetical order, then reverse it, ignoring numbers " type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/PS1/test.js</test-file>
+      <test-names>
+        <name value="Test for p1" />
+        <name value="should make [super1234califragilisticexpialidocious] aplhabetical order, then reverse it, ignoring numbers " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/PS1</test-directory>
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.test.js" />
+      <item itemvalue="Mocha.Test for p1" />
+      <item itemvalue="Mocha.Test for p1.should make [super1234califragilisticexpialidocious] aplhabetical order, then reverse it, ignoring numbers " />
+      <item itemvalue="Node.js.PS1.P1.js" />
+      <item itemvalue="Node.js.PS1.P2.js" />
+      <item itemvalue="Node.js.PS1.P3.js" />
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Mocha.PS1\test.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.PS1.P1.js" />
+        <item itemvalue="Node.js.PS1.P2.js" />
+        <item itemvalue="Node.js.PS1.P3.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8593685-70a6-40ec-a839-603a9af20006" name="Default Changelist" comment="" />
+      <created>1601568527880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601568527880</updated>
+      <workItem from="1601568529109" duration="1301000" />
+      <workItem from="1601844743226" duration="407000" />
+      <workItem from="1601845299924" duration="7976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="211" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601865161295">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="449" y="211" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1664.1069@0.0.1664.1069" timestamp="1601865161295" />
+    <state x="553" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.-211.1664.1076/0.0.2048.1112@0.0.2048.1112" timestamp="1601568681895" />
+    <state x="93" y="93" width="1479" height="884" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601865442532">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="93" y="93" width="1479" height="884" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1664.1069@0.0.1664.1069" timestamp="1601865442532" />
+    <state x="774" y="323" key="FileChooserDialogImpl" timestamp="1601865157788">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="774" y="323" key="FileChooserDialogImpl/0.0.1664.1069@0.0.1664.1069" timestamp="1601865157788" />
+    <state width="1643" height="284" key="GridCell.Tab.0.bottom" timestamp="1601865811434">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state width="1643" height="284" key="GridCell.Tab.0.bottom/0.0.1664.1069@0.0.1664.1069" timestamp="1601865811434" />
+    <state width="1643" height="284" key="GridCell.Tab.0.center" timestamp="1601865811434">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state width="1643" height="284" key="GridCell.Tab.0.center/0.0.1664.1069@0.0.1664.1069" timestamp="1601865811434" />
+    <state width="1643" height="284" key="GridCell.Tab.0.left" timestamp="1601865811433">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state width="1643" height="284" key="GridCell.Tab.0.left/0.0.1664.1069@0.0.1664.1069" timestamp="1601865811433" />
+    <state width="1643" height="284" key="GridCell.Tab.0.right" timestamp="1601865811434">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state width="1643" height="284" key="GridCell.Tab.0.right/0.0.1664.1069@0.0.1664.1069" timestamp="1601865811434" />
+    <state x="533" y="201" key="SettingsEditor" timestamp="1601569225995">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="533" y="201" key="SettingsEditor/2560.-211.1664.1076/0.0.2048.1112@0.0.2048.1112" timestamp="1601569225995" />
+    <state x="489" y="248" key="run.anything.popup" timestamp="1601861953782">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="489" y="248" key="run.anything.popup/0.0.1664.1069@0.0.1664.1069" timestamp="1601861953782" />
+  </component>
+</project>
