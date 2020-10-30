@@ -1,5 +1,12 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  body
+    form(action='/ps4', method='POST')
+      | Input City:
+      br
+      input(type='text', name='city', id='city', placeholder='Enter a city name')
+      br
+      input(type='submit', value='Submit')
+
+    p the temperature in fahrenheit in your input location is: #{weather}
